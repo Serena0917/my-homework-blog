@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "学员感想 | 哇！好有趣的一群灵魂！"
+title:  "学习体验 | "
 image: "assets/images/500.jpg"
 featured: true
 ---
 
-**文: 苏倩文**  
+**文: 胡萝卜吃兔兔**  
 **图: Coding Girls Club笛**  
 
 > 哇！好有趣的一群灵魂！
